@@ -14,7 +14,7 @@ namespace FlickrDesktopApp
     {
 
         public ObservableCollection<ImageModel> Images { get; set; }
-        private string AccessKey = "T7oOFF-VuXqwWVRD06TULiWXUHpDqthhdNgAJLDNDMM";
+        private string AccessKey = "<Your Access Key Generated from Unsplash>";
         private int photosPerPage = 12;
         private int page = 1;
 
